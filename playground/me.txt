@@ -1,0 +1,5 @@
+{{#user}}
+Name: Daniel
+Skills: HTML, CSS, JS, Next.js
+Email: tegatega301@gmail.com
+{{/user}}
